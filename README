@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5278
+
+https://github.com/cmcaine/vim-uci
+
+Tiny, simple ftdetect, ftplugin and syntax scripts for OpenWRT's Unified Configuration Interface files.
+
+Don't have vim on your router? I don't either, but this works great with sshfs.
+
+# Bonus features
+
+ftplugin/uci.vim sets commentstring correctly, so tpope's [vim-commentary](https://github.com/tpope/vim-commentary) works as intended!
+
+# License
+
+Copyright Colin Caine. GPL v3.
